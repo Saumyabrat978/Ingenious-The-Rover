@@ -1,4 +1,4 @@
- Ingenious: The Rover
+## Ingenious: The Rover
 
 Automated path finding and obstacle avoiding rover
 
